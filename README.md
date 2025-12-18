@@ -145,3 +145,5 @@ Simple flow
 - Build your simple App just like u bulid webapps
 - Wrap it inside the NeynarProvider (FrameContext) to get the context of the user [username, fid, walletadd, pfp and with fid his entire social graph]
 - Access the inbuilt Farcaster Wallet for any onchain activity
+
+
